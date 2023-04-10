@@ -26,8 +26,9 @@ To see examples of full responsive footer code in action, check out the example 
 * W3Schools CSS Tutorial
 * CSS Media Queries Tutorial
 
-# Conclusion :tada:
-A full responsive footer is an essential element of any website, providing important information and links while enhancing the overall user experience. By using responsive design techniques, you can ensure your footer looks great on any device, making your website more accessible and user-friendly.:+1:
+# Conclusion 
+A full responsive footer is an essential element of any website, providing important information and links while enhancing the overall user experience. By using responsive design techniques, you can ensure your footer looks great on any device, making your website more accessible and user-friendly.:+1: :tada:
+
 ```_________________________________________________________________________________________________
 ```
-### For More Useful project You Can Visit [MY PROFILE ACCOUNT](https://github.com/omarMohammedbenzo) 
+ > ### For More Useful project You Can Visit [MY PROFILE ACCOUNT](https://github.com/omarMohammedbenzo):sparkling_heart:
